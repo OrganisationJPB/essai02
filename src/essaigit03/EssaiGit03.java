@@ -15,7 +15,9 @@ public class EssaiGit03 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        int i;
+        i = 10;
+        System.out.println("la valeur de i est : " + i);
     }
     
 }
