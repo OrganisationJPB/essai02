@@ -18,11 +18,6 @@ public class EssaiGit03 {
         int i;
         i = 10;
         System.out.println("la valeur de i est : " + i);
-        
-        int j;
-                j = 10;
-        System.out.println("la valeur de j est : " + j);
-        
     }
     
 }
