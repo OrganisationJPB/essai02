@@ -22,6 +22,11 @@ public class EssaiGit03 {
         int k;
         k = 10;
         System.out.println("la valeur de j est : " + k);
+        
+        for (int j = 0; j < k; j++) {
+            System.out.println(j);
+            
+        }
 
     }
 
